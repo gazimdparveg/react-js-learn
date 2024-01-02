@@ -1,9 +1,10 @@
 import React from "react";
 
-function home(){
+function home(name){
     return (
         <div>
-            <h1>This is h1 tag in home pagese</h1>
+            
+     <h3>My  name id {name.name} .my number is{name.number}</h3>
         </div>
     )
 }
