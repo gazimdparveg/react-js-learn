@@ -1,0 +1,9 @@
+.newclass{
+    color:brown;
+    background-color: bisque;
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+    height: 50px;
+    padding-top: 5px;
+}
